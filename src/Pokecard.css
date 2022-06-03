@@ -1,0 +1,17 @@
+.pokecard-main-div {
+  background-color: rgb(58, 57, 57);
+  color: white;
+  width: 20vw;
+  text-align: center;
+  border-radius: 25px;
+}
+
+.pokecard-img {
+  width: 100px;
+  margin-top: -2%;
+  margin-bottom: -2%;
+}
+
+.pokecard-base-experience {
+  padding-bottom: 2%;
+}

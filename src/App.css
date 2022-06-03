@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(165, 163, 163);
+}
+.main-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20vh;
+}
+
+.child-div {
+  margin: 5px;
+}
